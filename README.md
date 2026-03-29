@@ -18,11 +18,11 @@ The system detects multiple objects in real-time and displays bounding boxes wit
 
 ## Features
 
-✔️ Object detection on images
-✔️ Real-time detection using webcam
-✔️ Pre-trained YOLOv8 model (no training required)
-✔️ Fast and efficient detection
-✔️ Easy to run and modify
+✔️ Object detection on images<br>
+✔️ Real-time detection using webcam<br>
+✔️ Pre-trained YOLOv8 model (no training required)<br>
+✔️ Fast and efficient detection<br>
+✔️ Easy to run and modify<br>
 
 ---
 
