@@ -1,5 +1,4 @@
 #  Real-Time Object Detection using YOLOv8
-
 ## 📌 Overview
 
 This project demonstrates real-time object detection using the powerful **YOLOv8 (You Only Look Once)** model from Ultralytics. It supports both **image-based detection** and **live webcam detection** using OpenCV.
