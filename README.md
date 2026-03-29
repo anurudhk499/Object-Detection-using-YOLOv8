@@ -1,4 +1,4 @@
-# 🚀 Real-Time Object Detection using YOLOv8
+#  Real-Time Object Detection using YOLOv8
 
 ## 📌 Overview
 
@@ -8,7 +8,7 @@ The system detects multiple objects in real-time and displays bounding boxes wit
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 * Python 🐍
 * OpenCV 📷
