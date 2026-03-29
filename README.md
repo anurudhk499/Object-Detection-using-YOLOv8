@@ -5,7 +5,6 @@
 This project demonstrates real-time object detection using the powerful **YOLOv8 (You Only Look Once)** model from Ultralytics. It supports both **image-based detection** and **live webcam detection** using OpenCV.
 The system detects multiple objects in real-time and displays bounding boxes with labels.
 
----
 
 ## Technologies Used
 
