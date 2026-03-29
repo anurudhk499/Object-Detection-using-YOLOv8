@@ -13,7 +13,7 @@ The system detects multiple objects in real-time and displays bounding boxes wit
 * YOLOv8 (Ultralytics)
 * Deep Learning / Computer Vision
 
----
+
 
 ## Features
 
@@ -23,7 +23,7 @@ The system detects multiple objects in real-time and displays bounding boxes wit
 ✔️ Fast and efficient detection<br>
 ✔️ Easy to run and modify<br>
 
----
+
 
 ## ▶️ How It Works
 
